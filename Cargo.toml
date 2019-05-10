@@ -1,7 +1,7 @@
 [package]
-name = "coap_test01"
+name = "asccc"
 version = "0.1.1"
-authors = ["Erik Moden <erik.moden@labgruppen.com>"]
+authors = ["Erik Modèn <0b101010@users.noreply.github.com>"]
 edition = "2018"
 
 [dependencies]
